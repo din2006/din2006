@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @din2006
+- 👋 Hi, I’m Dinesh 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter 
 
 <!---
 din2006/din2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
